@@ -1,5 +1,5 @@
 # Hi 👋, I'm Samira Challouf
-### Full-Stack Developer · AI Enthusiast · Tunisia 🇹🇳
+### AI & Full-Stack Developer · Tunisia 🇹🇳
 
 ---
 
