@@ -9,7 +9,7 @@
 * 💼 Full-Stack Developer passionate about web & AI-powered applications
 * 🤖 Currently building an AI platform for dyslexic learners (STT, TTS, text correction)
 * 🚀 Always learning, always building
-* 👩‍💻 Portfolio: https://samira-challouf.github.io
+* 👩‍💻 Portfolio: https://samira-challouf.netlify.app/
 * 📧 Reach me at samyrachallouf4@gmail.com
 * 🔗 LinkedIn: https://linkedin.com/in/samira-challouf
 
